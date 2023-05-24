@@ -5,5 +5,4 @@ export enum ResponseStatus {
     Unauthorized = 401,
     NoContent = 204,
     RedirectedToAnotherResource = 303,
-    MandateAlredyCreated= 205
   }
